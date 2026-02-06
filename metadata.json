@@ -1,0 +1,5 @@
+{
+  "name": "美容室ロゴジェネレーター",
+  "description": "美容室専用のロゴ作成Webアプリ。店名とスタイルを選ぶだけで、AIがプロ品質のロゴを提案します。",
+  "requestFramePermissions": []
+}
