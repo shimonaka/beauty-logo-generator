@@ -1,6 +1,5 @@
 {
     "hosting": {
-        "site": "beauty-logo-generator-4f520",
         "public": "dist",
         "ignore": [
             "firebase.json",

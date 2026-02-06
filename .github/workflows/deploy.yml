@@ -24,5 +24,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           channelId: live
-          projectId: beauty-logo-generator
-          target: beauty-logo-generator-4f520 # ユーザーに置き換えてもらうか、自動検出させる
+          projectId: beauty-logo-generator-4f520 # ユーザーに置き換えてもらうか、自動検出させる
